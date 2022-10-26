@@ -1,4 +1,6 @@
-ThomasDupeChecker
+![unknown](https://user-images.githubusercontent.com/116639375/198006274-7b03bdc9-47c2-4632-9f63-34cee7ca042c.png)
+
+
 -itemData
 
 is a 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
